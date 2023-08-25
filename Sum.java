@@ -9,4 +9,3 @@ public class Sum{
     }
 
 }
-// pratunu student
